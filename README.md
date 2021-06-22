@@ -26,5 +26,5 @@ Román Lisandro Fernández. Legajo: 11686
       <h2>Traducción</h2>
     </a>
 <a href="https://drive.google.com/file/d/1BzA1S9dBP9PhbXexNRFs-F0yRFSj6E2X/view?usp=sharing" target="blank">
-      <h2>Traducción</h2>
+      <h2>Conferencia</h2>
     </a>
