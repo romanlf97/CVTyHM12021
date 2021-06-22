@@ -4,7 +4,7 @@ Esta es la entrega del trabajo completo del Modulo 1 - Creación de Texto e Hipe
 
 <p>
 
-Mi CV puede descargarse de este link.
+Román Lisandro Fernández. Legajo: 11686
 <p>
 
 <a href="https://drive.google.com/file/d/1qTxdxfgfYXQv2w-_Z0egm0JpOf3ZB-Pa/view?usp=sharing" target="blank">
